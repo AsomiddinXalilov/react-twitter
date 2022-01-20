@@ -1,0 +1,26 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+*, *::after, *::before {
+  -webkit-box-sizing: inherit;
+          box-sizing: inherit;
+}
+
+.telegram {
+  width: 100vh;
+  height: 100vh;
+}
+
+.telegram__container {
+  width: 450px;
+}
+/*# sourceMappingURL=App.css.map */
